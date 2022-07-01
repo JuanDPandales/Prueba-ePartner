@@ -6,7 +6,7 @@
 
 -El componente "NewCol" no lo rendericé por un problema comentado dentro del mismo componente.
 
-## `Clonar Repositorio`
+### `Clonar Repositorio`
 
 Usa el comando dentro de tu terminal para clonar el repositorio $git clone https://github.com/JuanDPandales/Prueba-ePartner.git
 
